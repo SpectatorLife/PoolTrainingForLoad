@@ -1,2 +1,2 @@
-список упражненений в супер группе
-  SELECT [dbo].[getJSONExercises] (2)
+список упражненений в супер группе   SELECT dbo.getJSONExercises (2)
+список групп с колвом                select dbo.getJSONSuperGroupList()
